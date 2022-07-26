@@ -721,7 +721,7 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/JkiFoXA.png" group-title="Colombia",VPItv (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
 #EXTINF:-1channel id="RTS -HD" tvg-id="RTS -HD" tvg-chno="4" tvg-country="EC" tvg-language="Spanish" tvg-logo="" group-title="ECUADOR",RTS (RadioTeleSistema)
-http://45.179.140.242:8000/play/a0kw
+https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
 #EXTINF:-1 tvg-id="PuruwaTV.ec" tvg-chno="48" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/puruwaTV/picture?width=320&height=320" group-title="ECUADOR",Puruwa TV (720p)
 https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
 #EXTINF:-1channel id="Teleamazonas HD (P)" tvg-id="Teleamazonas HD (P)" tvg-chno="5" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="ECUADOR ",Teleamazonas (720p) [Not 24/7]
