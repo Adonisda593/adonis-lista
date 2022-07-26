@@ -724,8 +724,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpi
 https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
 #EXTINF:-1 tvg-id="PuruwaTV.ec" tvg-chno="48" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/puruwaTV/picture?width=320&height=320" group-title="ECUADOR",Puruwa TV (720p)
 https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
-#EXTINF:-1channel id="Teleamazonas HD (P)" tvg-id="Teleamazonas HD (P)" tvg-chno="5" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="ECUADOR ",Teleamazonas (720p) [Not 24/7]
-
 #EXTINF:-1 tvg-id="UCSG.ec"  tvg-chno="42"tvg-country="EC" tvg-language="Español" tvg-logo="https://i.imgur.com/otOhIe8.png" group-title ="ECUADOR",UCSG (1080p) [No 24/7]
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u
 
@@ -734,3 +732,21 @@ http://37.187.7.106/hechostv/live.m3u8
 
 #EXTINF:-1channel id="TC Television FHD (P)" tvg-id="TC Television FHD (P)" tvg-chno="10" tvg-country="EC" tvg-language="Español" tvg-logo="https://i.imgur.com8YPXrcX.png" group-title="ECUADOR ",TC TELEVISION(10)
 https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlwRP3fWhcXFu_E9R3MPHH0EWA6geJ4_ewyQZrsMf9HSE)/dm/3/x7wijay/d/live-1.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec QUI" tvg-chno="5" tvg-country="EC" tvg-language="Spanish" tvg-
+
+logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleamazonas-mediano.png" group-title="ECUADOR 
+
+",Teleamazonas (720p) 
+https://playback.akamaized.net/streams/1359588_9942377_lsi7j7dcekxsge4ofuh_1/media/1359588_9942377_lsi7j7dcekxsg
+
+e4ofuh_1@2756000p.m3u8?
+
+dw=14400&ts=1658872800&hdnts=exp=1659048383~acl=/streams/1359588_9942377_lsi7j7dcekxsge4ofuh_1/media*~h
+
+mac=8ad761bb554f2578f8dbd3ed2c7c09b227a6baf15ebfa0758ce71a40d578af5e
+#EXTINF:-1 tvg-id="Teleamazonas.ec GYQ"tvg-chno="5.1" tvg-country="EC" tvg-language="Spanish" tvg-
+
+logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleamazonas-mediano.png" group-title="ECUADOR 
+
+",Teleamazonas GUAYAQUIL (720p) 
+https://youvideostreaming.club/hls/ecutv4.m3u8
