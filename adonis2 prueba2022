@@ -249,3 +249,476 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254ab6fa74f8e0007ba68
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-62aa5740a47b6c000769f407" tvg-id="62aa5740a47b6c000769f407" tvg-chno="134" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Entretenimiento",Chilevision Contigo
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5RTV.ar" tvg-logo="https://i.imgur.com/4o9hQRI.png" group-title="Argentina",5RTv (720p) [Not 24/7]
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1 tvg-id="5TV.ar" tvg-logo="https://i.imgur.com/kujnLsO.png" group-title="Argentina",5TV (Corrientes) (480p) [Not 24/7]
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="Argentina",24/7 Canal de Noticias (720p)
+https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/512px-A24_%282019-1%29.png" group-title="Argentina" user-agent="iPhone",A24 (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-logo="https://i.imgur.com/HSKeS3G.png" group-title="Argentina",A Son de Salsa (720p) [Not 24/7]
+https://stmv1.panelzcast.com/asondesalsa/asondesalsa/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="Argentina",Al Jazeera English (1080p)
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTucuman.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png/512px-Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" group-title="Argentina",America (720p) [Not 24/7]
+http://45.6.4.154/americatuc/vivo.m3u8
+#EXTINF:-1 tvg-id="AmericaSports.ar" tvg-logo="https://i.imgur.com/GOQ9zOI.png" group-title="Argentina",América Sports (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina" user-agent="iPhone",América TV (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/8DWQeMz.png" group-title="Argentina",Anime Zone TV (480p) [Not 24/7]
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",AniPlus (720p) [Not 24/7]
+https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/Jo7p7yZ.png" group-title="Argentina",Argentinísima Satelital (720p)
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AVCHD.ar" tvg-logo="https://i.imgur.com/s8NvpeC.png" group-title="Argentina",AVC HD (Monte Caseros | Corrientes) (360p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://ssh101.com/
+https://tna5.bozztv.com/AVCHD/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Argentina" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Baby TV Asia (Vietnamese dub) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/rPzH88J.png" group-title="Argentina",BBC News HD (720p) [Geo-blocked]
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="Canal2HD.ar" tvg-logo="https://i.imgur.com/chp5EJ9.png" group-title="Argentina",Canal 2 Jujuy (720p) [Not 24/7]
+http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
+#EXTINF:-1 tvg-id="Canal3Rosario.ar" tvg-logo="https://i.imgur.com/YqnBcEs.png" group-title="Argentina",Canal 3 Rosario (704p) [Geo-blocked]
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4Jujuy.ar" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Argentina",Canal 4 Jujuy (720p)
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal9ComodoroRivadavia.ar" tvg-logo="https://i.imgur.com/MdHd50C.png" group-title="Argentina",Canal 9 (Comodoro Rivadavia) (576p) [Not 24/7]
+https://live.canalnueve.tv/canal.m3u8
+#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-logo="https://i.imgur.com/kl8bDFF.png" group-title="Argentina",Canal 9 Televida (720p) [Not 24/7]
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10RioNegro.ar" tvg-logo="https://i.imgur.com/PE2Gi3N.png" group-title="Argentina",Canal 10 Rio Negro (720p) [Not 24/7]
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11LaRioja.ar" tvg-logo="https://i.imgur.com/Ji5XLWX.jpg" group-title="Argentina",Canal 11 La Rioja (Fénix Multiplataforma) (360p)
+http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal12Web.ar" tvg-logo="https://i.imgur.com/VYcTRbd.png" group-title="Argentina",Canal 12 Puerto Madryn (720p) [Not 24/7]
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-logo="https://i.imgur.com/j2lPlFe.png" group-title="Argentina",Canal 13 La Rioja (480p)
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="Argentina",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-logo="https://i.imgur.com/fNURpai.png" group-title="Argentina" user-agent="iPhone",Canal de la Ciudad (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://g5.proy-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-logo="https://www.ilce.edu.mx/images/home/ci.png" group-title="Argentina",Canal Iberoamericano
+https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/_definst_/mp4:7NBH6B8L/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTDC.ar" tvg-logo="https://i.imgur.com/MxEh5J8.png" group-title="Argentina",CANAL TDC (1080p) [Not 24/7]
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal9Multivision.ar" tvg-logo="https://i.imgur.com/2WFGiCh.png" group-title="Argentina",CANAL.9 MULTIVISION (720p) [Not 24/7]
+https://panel.dattalive.com/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://i.imgur.com/SGKGxt7.png" group-title="Argentina" user-agent="Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36",canalLUZ (1080p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
+https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="Argentina",CGTN (576p)
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Argentina",CGTN Documentary (576p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/512px-CGTN_Espanol.png" group-title="Argentina",CGTN Español (576p) [Not 24/7]
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-logo="https://i.imgur.com/JbxMs5i.png" group-title="Argentina",Chaco TV (720p) [Not 24/7]
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title="Argentina",Chacra TV (480p) [Not 24/7]
+https://s8.stweb.tv/chacra/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.pinimg.com/originals/2d/18/54/2d185451c3cc188c39add960b94c6844.png" group-title="Argentina",Cinco TV (480p) [Not 24/7]
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/512px-Cine.Ar_logo.svg.png" group-title="Argentina",CINE.AR (720p) [Not 24/7]
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="CiudadTVResistencia.ar" tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="Argentina",Ciudad TV Resistencia (Chaco) (720p) [Not 24/7]
+http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal3PinamarHD.ar" tvg-logo="https://i.imgur.com/KN8yuPh.png" group-title="Argentina",CN3 Pinamar (720p) [Not 24/7]
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Argentina",CNN en Español
+http://209.91.213.10:8088/play/a014
+#EXTINF:-1 tvg-id="CrossingCanalIPTV.ar" tvg-logo="https://i.imgur.com/niGj91H.png" group-title="Argentina",Crossing TV (Crossing Contenidos) (720p) [Not 24/7]
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Argentina",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Argentina",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="ElDoce.ar" tvg-logo="https://i.imgur.com/rwdZ71V.png" group-title="Argentina",El Doce TV (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?feature=emb_title&streaming-ip=https://www.youtube.com/watch?v=gBbMbqILzXU
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Argentina",El Garage TV (480p) [Not 24/7]
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Argentina",Encuentro (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow/live
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://i.imgur.com/ukT8LT0.png" group-title="Argentina",EnerGeek (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeek2.cl" tvg-logo="https://i.imgur.com/ukT8LT0.png" group-title="Argentina",EnerGeek Señal 2 (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="EnlaceTV.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/512px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="Argentina",EnlaceTV (720p) [Not 24/7]
+https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Argentina",Euronews German
+https://euronews.alteox.app/hls/de_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Argentina",Euronews Italian
+https://euronews.alteox.app/hls/it_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Argentina",Euronews Portuguese
+https://euronews.alteox.app/hls/pt_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Argentina",Euronews Russian
+https://euronews.alteox.app/hls/ru_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Argentina",Euronews Spanish
+https://euronews.alteox.app/hls/es_stream.m3u8
+#EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://comteco.com.bo/img/upload/canales/YRTcBp.png" group-title="Argentina",EWTN el Canal Católico (720p) [Not 24/7]
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FenixTV.ar" tvg-logo="https://i.imgur.com/Op0zdh5.jpg" group-title="Argentina",Fenix TV (Ciudad de La Rioja) (360p)
+https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Argentina",France 24 English (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Argentina",France 24 Español (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espanol/live
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="Argentina",Golden TV (240p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
+#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/EiGdG9p.png" group-title="Argentina",Hiperconectados Televisión (720p)
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:-1 tvg-id="InformacionPeriodistica.ar" tvg-logo="https://i.imgur.com/SQSu9M5.png" group-title="Argentina",Informacion Periodística (1080p)
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Argentina",Insight TV (1080p)
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="Argentina",KBS World (720p)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="LaVozdeTucuman.ar" tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/11/LOGOTRANSPARENTE2-1-600x187.png" group-title="Argentina",La Voz de Tucuman (480p)
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinoKids.uy" tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Argentina",LatinoKids (360p) [Not 24/7]
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Argentina",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="Argentina",Metro Globe Network (1080p) [Not 24/7]
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MNBWorld.mn" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-world-mn.png" group-title="Argentina",MNB world
+https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-logo="https://i.imgur.com/sZ1yE4e.png" group-title="Argentina",Multivisión Federal (720p) [Not 24/7]
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" group-title="Argentina",MusicTop (720p)
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Argentina",NASA TV (720p)
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/296ICn5.png" group-title="Argentina",Net TV (720p) [Not 24/7]
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Argentina",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/512px-NTN24_logo.svg.png" group-title="Argentina",NTN24 (Nuestra Tele Noticias) (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCEJs1fTF3KszRJGxJY14VrA/live
+#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Argentina",Nuevo Tiempo (720p) [Not 24/7]
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/512px-Paka-paka.svg.png" group-title="Argentina",Pakapaka (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCVVNYxncuD4EfHpKDlPIYcQ/live
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Argentina",Pluto TV Euronews (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Power TV (720p) [Not 24/7]
+https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/xvMDTe9.png" group-title="Argentina",Radio San Borja TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTVNeuquen.ar" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/rtn-neuqun-1517.jpg" group-title="Argentina",Radio TV Neuquen (720p) [Not 24/7]
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Argentina",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="RetroMagico.ar" tvg-logo="https://i.imgur.com/Dd8KMvI.png" group-title="Argentina",RetroMágico
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Argentina",RT Documentary (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Argentina",RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="RTNews.ru" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="Argentina",RT News (1080p) [Geo-blocked]
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="RTN.ar" tvg-logo="https://i.imgur.com/daMqavf.jpg" group-title="Argentina",RTN (Neuquén) (720p) [Not 24/7]
+http://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Argentina" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Internacional (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="Argentina",San Isidro TV (360p) [Not 24/7]
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="SEAToday.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="Argentina",Sea Today (720p) [Geo-blocked]
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:-1 tvg-id="SEOTV.bo" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Argentina",SEO TV (720p) [Not 24/7]
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+#EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Argentina",SEO TV Novelas (540p) [Not 24/7]
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-logo="https://i.imgur.com/UgJ5lac.png" group-title="Argentina",SIC Internacional (720p)
+http://live.impresa.pt/live/sicint/sicint.m3u8
+#EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Argentina",SKI TV (1080p) [Not 24/7]
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
+#EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Argentina",Sofy TV (720p)
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Argentina",Tastemade en Español (1080p)
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleJunin.ar" tvg-logo="https://i.imgur.com/XDMkUfA.png" group-title="Argentina",TeleJunín (576p) [Not 24/7]
+https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" group-title="Argentina",Telemax (720p)
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-id="TelenordCorrientes.ar" tvg-logo="https://i.imgur.com/byxXHzq.png" group-title="Argentina",Telenord Corrientes (1080p) [Not 24/7]
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Telesol (TLS) (432p) [Not 24/7]
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/512px-TeleSUR-Logo.svg.png" group-title="Argentina",teleSUR (1080p)
+https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
+#EXTINF:-1 tvg-id="TelpinTVCanal2HD.ar" tvg-logo="https://i.imgur.com/KPpe6gA.png" group-title="Argentina",Telpin Canal 2 (720p) [Not 24/7]
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Tevex.cl" tvg-logo="https://i.imgur.com/sj4sEaN.png" group-title="Argentina",Tevex (720p) [Not 24/7]
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tierramia-tv-ar.png" group-title="Argentina",Tierra Mía TV (720p)
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="Argentina",TRT World (720p) [Not 24/7]
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TruTVPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/512px-TruTV_logo_2014.png" group-title="Argentina",Tru TV América Latina
+http://190.61.37.173:9001/play/a084/index.m3u8
+#EXTINF:-1 tvg-id="TVManaArgentina.ar" tvg-logo="https://i.imgur.com/GVI8kkp.jpg" group-title="Argentina",TV Maná Argentina (576p) [Not 24/7]
+http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="Argentina",TV Perú Internacional (460p) [Not 24/7]
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="Argentina",TVG América (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMInternacional.mz" tvg-logo="https://i.imgur.com/Ns3WrOQ.png" group-title="Argentina",TVM Internacional (480p) [Not 24/7]
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUniversidad.ar" tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="Argentina",TVU Universidad Nacional de La Plata (720p) [Not 24/7]
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 tvg-id="UCL.uy" tvg-logo="https://i.imgur.com/e3HF2Eu.png" group-title="Argentina",UCL TV (360p) [Not 24/7]
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="Argentina",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-logo="https://i.imgur.com/svgW3Fr.png" group-title="Argentina",Vallenato Internacional (720p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV.ar" tvg-logo="https://i.imgur.com/TLaausJ.png" group-title="Argentina",VerTV (VTV) (720p) [Not 24/7]
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/JkiFoXA.png" group-title="Argentina",VPItv (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Argentina",World Fashion Channel International (1080p)
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-logo="https://i.imgur.com/HSKeS3G.png" group-title="Colombia",A Son de Salsa (720p) [Not 24/7]
+https://stmv1.panelzcast.com/asondesalsa/asondesalsa/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="Colombia",Al Jazeera English (1080p)
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia",Alpavision Canal 2 (Neiva | Huila) (720p) [Not 24/7]
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaSports.ar" tvg-logo="https://i.imgur.com/GOQ9zOI.png" group-title="Colombia",América Sports (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
+#EXTINF:-1 tvg-id="Amordiscos.co" tvg-logo="https://i.imgur.com/JjiSzrn.png" group-title="Colombia",Amordiscos (480p)
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/8DWQeMz.png" group-title="Colombia",Anime Zone TV (480p) [Not 24/7]
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia",ATN Televisión (Cúcuta | Norte de Santander) (640p)
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="Colombia",Avivamiento TV (1080p) [Not 24/7]
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Colombia" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Baby TV Asia (Vietnamese dub) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/rPzH88J.png" group-title="Colombia",BBC News HD (720p) [Geo-blocked]
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="BuenisimaRadioTV.co" tvg-logo="https://cdn.colombia.com/canales/buenisima-radio-tv-4865.jpg" group-title="Colombia",Buenísima Radio TV (Gamarra | Cesar) (1080p) [Not 24/7]
+https://streamyes.alsolnet.com/buturama/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/512px-Cable_Noticias_logo.svg.png" group-title="Colombia",Cablenoticias (Bogotà | Cundinamarca) (1080p)
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/AZOTbvH.png" group-title="Colombia",Cali TV (Santiago de Cali | Valle del Cauca) (540p) [Not 24/7]
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",Canal 1 (1080p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="Colombia",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia",Canal Acuario (Rionegro | Antioquia)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canalacuario
+#EXTINF:-1 tvg-id="CanalC.co" tvg-logo="https://i.imgur.com/gork4XV.png" group-title="Colombia",Canal C (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
+https://stmv2.voxtvhd.com.br/canalccali/canalccali/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="Colombia",Canal Capital (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia",Canal Capital Eureka (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/57d2ebe8fd61d8f9327f8ad1.m3u8
+#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Colombia",Canal Caracol (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia",Canal Caracol Ahora (720p)
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia",Canal CNC Cartagena (Cartagena | Bolívar) (720p)
+https://cloud2.streaminglivehd.com:1936/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia",Canal CNC HD Tulua (Tulua | Valle del Cauca) (1080p)
+https://servers.amelbasoluciones.co:19360/cnctulua/cnctulua.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia",Canal CNC Montería (Montería | Córdoba) (720p)
+https://stmv1.voxtvhd.com.br/cncmonteria/cncmonteria/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalDoce.co" tvg-logo="https://lh3.googleusercontent.com/-ERdsJLzILbw/Xzgg1nFfrII/AAAAAAAA4Xs/7-F-ChjTvCII5R33mD4ef3Tb75BkfZUOwCK8BGAsYHg/s0/2020-08-15.png" group-title="Colombia",Canal Doce
+https://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
+#EXTINF:-1 tvg-id="CanalDos.co" tvg-logo="https://i.imgur.com/BYsyNHZ.jpg" group-title="Colombia",Canal Dos (Yopal | Casanare) (720p) [Not 24/7]
+http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-logo="https://www.ilce.edu.mx/images/home/ci.png" group-title="Colombia",Canal Iberoamericano
+https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/_definst_/mp4:7NBH6B8L/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-logo="https://i.imgur.com/favUyKV.png" group-title="Colombia",Canal Institucional (1080p)
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia",Canal NorteVision (Pasto | Nariño) (480p)
+https://eu1.servers10.com:8081/8092/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia",Canal P&C [Not 24/7]
+http://66.240.236.26:1935/canalpycvivo/canalpycvivo/canalpycvivo/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSonTV.co" tvg-logo="https://i.imgur.com/XVYpQdw.png" group-title="Colombia",Canal Son TV (720p) [Not 24/7]
+https://server12.videostreaming.net:3628/stream/play.m3u8
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/P3ZFGx1.png" group-title="Colombia",Canal Visión Dorada (720p) [Not 24/7]
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia",Canal Zoom (Bogotà | Cundinamarca) (1080p)
+https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="Colombia",CGTN (576p)
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Colombia",CGTN Documentary (576p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/512px-CGTN_Espanol.png" group-title="Colombia",CGTN Español (576p) [Not 24/7]
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Colombia",CNN en Español
+http://209.91.213.10:8088/play/a014
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia",CTV Barranquilla (Barranquilla | Atlántico) (1080p)
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Colombia",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Colombia",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="Eduvision.co" tvg-logo="https://cdn.colombia.com/canales/eduvision-2592.jpg" group-title="Colombia",Eduvision (720p)
+http://66.240.236.25:1936/eduvision/eduvision/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia",EDVTV (Bogotà | Cundinamarca)
+https://tustreamingvideo.com:3376/multi_live/play.m3u8
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Colombia",El Garage TV (480p) [Not 24/7]
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://i.imgur.com/ukT8LT0.png" group-title="Colombia",EnerGeek (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeek2.cl" tvg-logo="https://i.imgur.com/ukT8LT0.png" group-title="Colombia",EnerGeek Señal 2 (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="EnlaceTV.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/512px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="Colombia",EnlaceTV (720p) [Not 24/7]
+https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Colombia",Euronews German
+https://euronews.alteox.app/hls/de_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Colombia",Euronews Italian
+https://euronews.alteox.app/hls/it_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Colombia",Euronews Portuguese
+https://euronews.alteox.app/hls/pt_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Colombia",Euronews Russian
+https://euronews.alteox.app/hls/ru_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Colombia",Euronews Spanish
+https://euronews.alteox.app/hls/es_stream.m3u8
+#EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://comteco.com.bo/img/upload/canales/YRTcBp.png" group-title="Colombia",EWTN el Canal Católico (720p) [Not 24/7]
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Colombia",France 24 English (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Colombia",France 24 Español (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espanol/live
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="Colombia",Golden TV (240p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
+#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/EiGdG9p.png" group-title="Colombia",Hiperconectados Televisión (720p)
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Colombia",Insight TV (1080p)
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="Colombia",KBS World (720p)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="LatinoKids.uy" tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Colombia",LatinoKids (360p) [Not 24/7]
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Colombia",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="MelodyChannel.co" tvg-logo="https://i.imgur.com/meDbPJw.png" group-title="Colombia",Melody Channel Colombia (480p)
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="Colombia",Metro Globe Network (1080p) [Not 24/7]
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MNBWorld.mn" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-world-mn.png" group-title="Colombia",MNB world
+https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieFe.co" tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="Colombia",MovieFe (360p) [Not 24/7]
+https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia",Multicanal Televisión (Santiago de Cali | Valle del Cauca) (720p)
+https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-id="MundoMas.co" tvg-logo="https://i.imgur.com/CREs19T.png" group-title="Colombia",Mundo +
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Colombia",NASA TV (720p)
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Colombia",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="Noticiero90Minutos.co" tvg-logo="https://i.imgur.com/iBrl0b8.png" group-title="Colombia",Noticiero 90 Minutos (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/512px-NTN24_logo.svg.png" group-title="Colombia",NTN24 (Nuestra Tele Noticias) (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCEJs1fTF3KszRJGxJY14VrA/live
+#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Colombia",Nuevo Tiempo (720p) [Not 24/7]
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia",Ondambiantal TV (Bogotà | Cundinamarca)
+https://server12.videostreaming.net:3230/stream/play.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Colombia",Pluto TV Euronews (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/xvMDTe9.png" group-title="Colombia",Radio San Borja TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Colombia",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Colombia",RT Documentary (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Colombia",RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="RTNews.ru" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="Colombia",RT News (1080p) [Geo-blocked]
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Colombia" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Internacional (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="Colombia",San Isidro TV (360p) [Not 24/7]
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="SEAToday.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="Colombia",Sea Today (720p) [Geo-blocked]
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/512px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Colombia",Señal Colombia (1080p)
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SEOTV.bo" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Colombia",SEO TV (720p) [Not 24/7]
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+#EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Colombia",SEO TV Novelas (540p) [Not 24/7]
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-logo="https://i.imgur.com/UgJ5lac.png" group-title="Colombia",SIC Internacional (720p)
+http://live.impresa.pt/live/sicint/sicint.m3u8
+#EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Colombia",SKI TV (1080p) [Not 24/7]
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
+#EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Colombia",Sofy TV (720p)
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SuramTV.co" tvg-logo="https://i.imgur.com/6d2fOjq.png" group-title="Colombia",Suram TV (1080p) [Not 24/7]
+https://livetv.305streamhd.com:3111/multi_live/play.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Colombia",Tastemade en Español (1080p)
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TDIColombia.co" tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" group-title="Colombia",TDI Colombia (720p) [Not 24/7]
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia",Teleamiga (Bogotà | Cundinamarca) (480p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/512px-Teleantioquia_logo.svg.png" group-title="Colombia",Teleantioquia (Medellín | Antioquia) (360p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecafe.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telecafe-mediano.png" group-title="Colombia",Telecafé (Manizales | Caldas)
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/WuFlBbL.png" group-title="Colombia",Telecaribe (Puerto Colombia | Atlántico) (720p)
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.imgur.com/4xNgb8H.png" group-title="Colombia",Teleislas (San Andrés) (486p) [Not 24/7]
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemedellin.co" tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="Colombia",Telemedellin (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemusicaTV.co" tvg-logo="https://i.imgur.com/bwp5lST.png" group-title="Colombia",Telemúsica TV (480p)
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.imgur.com/39hy97J.png" group-title="Colombia",Telepacífico (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/512px-TeleSUR-Logo.svg.png" group-title="Colombia",teleSUR (1080p)
+https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
+#EXTINF:-1 tvg-id="Tevex.cl" tvg-logo="https://i.imgur.com/sj4sEaN.png" group-title="Colombia",Tevex (720p) [Not 24/7]
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="TrecePlus.co" tvg-logo="https://i.imgur.com/jySvMsw.png" group-title="Colombia",Trece + (1080p)
+https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="Colombia",TRT World (720p) [Not 24/7]
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TruTVPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/512px-TruTV_logo_2014.png" group-title="Colombia",Tru TV América Latina
+http://190.61.37.173:9001/play/a084/index.m3u8
+#EXTINF:-1 tvg-id="TVAgro.co" tvg-logo="https://i.imgur.com/QJibSpO.png" group-title="Colombia",TV Agro
+http://179.1.7.198:1935/live/TVAgroHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="Colombia",TV Perú Internacional (460p) [Not 24/7]
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="Colombia",TVG América (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGracia.co" tvg-logo="https://i.imgur.com/b3PYxQZ.png" group-title="Colombia",TVGracia (720p)
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMInternacional.mz" tvg-logo="https://i.imgur.com/Ns3WrOQ.png" group-title="Colombia",TVM Internacional (480p) [Not 24/7]
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNGlobal.co" tvg-logo="https://i.imgur.com/1TcZUzH.png" group-title="Colombia",TVN Global (614p) [Not 24/7]
+https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/playlist.m3u8
+#EXTINF:-1 tvg-id="UCL.uy" tvg-logo="https://i.imgur.com/e3HF2Eu.png" group-title="Colombia",UCL TV (360p) [Not 24/7]
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="Colombia",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-logo="https://i.imgur.com/svgW3Fr.png" group-title="Colombia",Vallenato Internacional (720p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/JkiFoXA.png" group-title="Colombia",VPItv (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Colombia",World Fashion Channel International (1080p)
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
