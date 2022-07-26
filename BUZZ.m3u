@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1, PELICULAS2022
+#EXTINF:-1 tvg-logo="https://allpeliculas.se/wp-content/uploads/2022/07/af2c3144687055ed327422e490a67414bPIm1SXYp5RQ3c4wP91JQRewIb8.jpg" group-title="Películas",BUZZ LIGHTYEAR
+https://www731.ff-02.com/token=ofiITi1_sJW9G7wI_FcUog/1658828073/179.49.0.0/195/3/83/10005164f0cc69ae187951e0356eb833-1080p.mp4
+#EXTINF:-1, series24/7
+#EXTINF:-1 tvg-logo="https://www.subpng.com/png-3yr5j6/download.html"group-title=series 24/7
+EL CHAVO DEL 8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/150_.m3u8?token=5-L1TQpOFJk7LO_6U9lvyw&expires=1658827083&ip=179.49.33.235
