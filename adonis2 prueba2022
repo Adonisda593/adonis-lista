@@ -722,3 +722,15 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
 #EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Colombia",World Fashion Channel International (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MulticanalCatamayo.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="" group-title="ECUADOR",Multicanal Catamayo (720p)
+https://multicanal.streamseguro.com/hls/streaming.m3u8
+#EXTINF:-1 tvg-id="RTS.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="" group-title="ECUADOR",RTS (RadioTeleSistema)
+http://45.179.140.242:8000/play/a0kw
+#EXTINF:-1 tvg-id="PuruwaTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/puruwaTV/picture?width=320&height=320" group-title="ECUADOR",Puruwa TV (720p)
+https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="ECUADOR ",Teleamazonas (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="UCSG.ec" tvg-country="EC" tvg-language="Español" tvg-logo="https://i.imgur.com/otOhIe8.png" group-title ="ECUADOR",UCSG (1080p) [No 24/7]
+http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u
+#EXTINF:-1 tvg-id="HechosEcuador.ec" tvg-country="EC" tvg-language="Español" tvg-logo="https://i.imgur.com8YPXrcX.png" group-title="ECUADOR ",Hechos Ecuador (480p)
+http://37.187.7.106/hechostv/live.m3u8
