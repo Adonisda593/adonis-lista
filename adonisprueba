@@ -249,9 +249,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f4
 https://playback.akamaized.net/streams/1359588_9942377_lsi7j7dcekxsge4ofuh_1/media/1359588_9942377_lsi7j7dcekxsge4ofuh_1@2756000p.m3u8?dw=14400&ts=1658872800&hdnts=exp=1659048383~acl=/streams/1359588_9942377_lsi7j7dcekxsge4ofuh_1/media*~hmac=8ad761bb554f2578f8dbd3ed2c7c09b227a6baf15ebfa0758ce71a40d578af5e
 #EXTINF:-1 tvg-id="Teleamazonas.ec GYQ"tvg-chno="5" tvg-country="EC" tvg-language="Spanish"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleamazonas-mediano.png" group-title="ECUADOR",Teleamazonas GUAYAQUIL (720p) 
 https://youvideostreaming.club/hls/ecutv4.m3u8
-#EXTINF:-1 tvg-id="RTS.ec"tvg-chno="4" tvg-country="EC" tvg-language="Spanish" tvg-logo="" group-title="ECUADOR",RTS (RadioTeleSistema)
-http://45.179.140.242:8000/play/a0kw
-#EXTINF:-1 tvg-id="tc television" tvg-chno="10"tvg-country="EC" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tc_television-mediano.png" group-title="ECUADOR ",tc television fhd 
+#EXTINF:-1 tvg-id="RTS.ec"tvg-chno="4" tvg-country="EC" tvg-language="Spanish" tvg-logo=" https://imagenes.gatotv.com/logos/canales/oscuros/rts-mediano.png" group-title="ECUADOR",RTS 
+https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
+# EXTINF:-1 tvg-id="tc television" tvg-chno="10"tvg-country="EC" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tc_television-mediano.png" group-title="ECUADOR ",tc television fhd
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5Vw8KPsMh4Af08FEcnRNJdeJZeVRULYkSBwTe5ueuS7)/dm/3/x7wijay/d/live-1.m3u8
 #EXTINF:-1 tvg-id="ecuavisa" tvg-chno="2"tvg-country="EC" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ecuavisa-mediano.png" group-title="ECUADOR ",ecuavisa
 https://youvideostreaming.club/hls/ecutv1.m3u8
